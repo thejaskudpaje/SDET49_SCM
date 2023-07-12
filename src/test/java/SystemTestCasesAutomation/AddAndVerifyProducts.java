@@ -93,6 +93,7 @@ public class AddAndVerifyProducts {
 		driver.findElement(By.xpath("//input[@value='Log out']")).click();
 		
 		driver.close();
+		//Commenting for Github Purpose
 		
 		
 		
